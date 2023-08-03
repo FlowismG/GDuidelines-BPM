@@ -1,7 +1,7 @@
 Song BPM:             100
 Song Length (secs):   300
 Song Offset (ms):     0
-Color Pattern:        G Y Y Y
+Color Pattern:        G O Y O
 
 =================
 
